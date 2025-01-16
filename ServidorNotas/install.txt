@@ -4,3 +4,5 @@ para crear el servidor
 - npm install express mongoose dotenv
 para correr el servidor 
 - npm run dev
+
+que no guste se llevada por la buena asd
